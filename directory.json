@@ -1,0 +1,42 @@
+{
+    "1": [
+        "easy",
+        "padding"
+    ],
+    "2": [
+        "easy",
+        "arange",
+        "view"
+    ],
+    "3": [
+        
+    ],
+    "4": [
+        "easy",
+        "broadcasting"
+    ],
+    "5": [
+        "easy",
+        "masking"
+    ],
+    "6": [
+        "easy",
+        "stack"
+    ],
+    "7": [
+        "easy",
+        "meshgrid",
+        "argmax"
+    ],
+    "9": [
+        "easy",
+        "indexing",
+        "diagonal",
+        "arange"
+    ],
+    "10" : [
+        "easy",
+        "meshgrid",
+        "arange"
+    ]
+}
