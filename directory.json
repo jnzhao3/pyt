@@ -23,6 +23,11 @@
         "easy",
         "stack"
     ],
+    "8": [
+        "medium",
+        "broadcasting",
+        "masking"
+    ],
     "7": [
         "easy",
         "meshgrid",
@@ -38,5 +43,10 @@
         "easy",
         "meshgrid",
         "arange"
+    ],
+    "11": [
+        "medium",
+        "lexsort",
+        "masking"
     ]
 }
